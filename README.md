@@ -1,5 +1,12 @@
 # Examples of algorithms for calculating particle interactions
 
+## Consist
+
+* [Lennard Jones Potential](https://en.wikipedia.org/wiki/Lennard-Jones_potential)
+* [Morse Potential](https://en.wikipedia.org/wiki/Morse_potential)
+* [Verlet integration Algorithm](https://en.wikipedia.org/wiki/Verlet_integration)
+* [Euler Method](https://en.wikipedia.org/wiki/Euler_method)
+
 ## Prepare
 
 ```bash
